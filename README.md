@@ -1,4 +1,4 @@
-# Hi there 👋
+![1](https://github.com/user-attachments/assets/837f663d-c4be-4b1f-9183-3afbc1986a7a)
 
 My name is Luiza H. Moretti, I am a brazilian frontend student and a cat lover 😻
 
@@ -21,6 +21,11 @@ Reach me out at 📧 luhm.dev@gmail.com or on [LinkedIn](https://www.linkedin.co
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhm&show_icons=true&hide=contribs&theme=buefy)
+
+![2](https://github.com/user-attachments/assets/b49c1a5d-9d0c-43d6-879d-ae438240a9ab)
+
+
+
 
 
 
