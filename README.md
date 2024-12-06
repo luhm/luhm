@@ -2,10 +2,9 @@
 
 My name is Luiza H. Moretti, I am a brazilian frontend student and a cat lover 😻
 
-I currently work with:
+Nowadays I'm learning `JavaScript`, `nextJS` and `React` and I already work with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhm&hide_title=true&layout=compact)
-and also I'm learning `JavaScript`, `nextJS` and `React`.
 
 ## Studies and Workies
 
