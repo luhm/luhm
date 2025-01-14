@@ -9,11 +9,11 @@ Nowadays I'm learning ![img](https://img.shields.io/badge/JavaScript-gray?logo=j
 
 ## Studies and Workies
 
-:mortar_board: I finished my internship at [Brainwave Matrix Solutions](https://www.linkedin.com/company/brainwave-matrix-solutions/posts/?feedView=all).
+💻 I colaborate as a Junior FrontEnd Dev at [Caju Code](https://www.linkedin.com/company/caju-code/) since November 2024.
 
-:mortar_board: I finished the [Santander + Ada Tech](https://app.santanderopenacademy.com/pt-BR/program/santander-tech) program.
+:mortar_board: I finished my internship at [Brainwave Matrix Solutions](https://www.linkedin.com/company/brainwave-matrix-solutions/posts/?feedView=all) in January 2025.
 
-💻 I colaborate as a Junior FrontEnd Dev at [Caju Code](https://www.linkedin.com/company/caju-code/).
+:mortar_board: I finished the [Santander + Ada Tech](https://app.santanderopenacademy.com/pt-BR/program/santander-tech) program in January 2025.
 
 ---
 Reach me out at 📧 luhm.dev@gmail.com or on [LinkedIn](https://www.linkedin.com/in/luhm/)
