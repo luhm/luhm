@@ -2,7 +2,7 @@
 
 My name is Luiza H. Moretti, I am a brazilian frontend student and a cat lover 😻
 
-## Stakies and skills
+## Stackies and skills
 
 I have already a good understanding and use of the 
 <div align="left">
