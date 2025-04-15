@@ -1,17 +1,16 @@
 ![cat-hello](https://github.com/user-attachments/assets/837f663d-c4be-4b1f-9183-3afbc1986a7a)
 
-My name is Luiza H. Moretti, I am a brazilian frontend student and a cat lover 😻
+My name is Luiza H. Moretti, I am a brazilian data analyst student and a cat lover 😻
 
 ## Stackies and skills
 
 I have already a good understanding and use of the 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 <div align="left">
@@ -19,22 +18,18 @@ I have already a good understanding and use of the
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
 </div>
 
 <br>
 
 and nowadays I'm **learning**
   
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-    <img width="12" />
-  </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e26d1ac9-6a12-484b-91af-92a69248c963" height="40" alt="."/>
+
+</div>
 
 <br>
 
@@ -51,8 +46,6 @@ Also I have experience with the following tools
   <img width="12" />
 </div>
 
-###
-
 ---
 
 See more of my stats: 
@@ -61,11 +54,14 @@ See more of my stats:
 
 ## Studies and Workies
 
-💻 I colaborate as a Junior FrontEnd Dev at [Caju Code](https://www.linkedin.com/company/caju-code/) since November 2024.
+:mortar_board: I've finished the [Teo Calvo SQL course](https://github.com/TeoCalvo/teoSQL-V2/tree/main) in March 2025.
 
-:mortar_board: I finished my internship at [Brainwave Matrix Solutions](https://www.linkedin.com/company/brainwave-matrix-solutions/posts/?feedView=all) in January 2025.
+💻 I'm a mentee in Data Analysis at [Caju Code](https://www.linkedin.com/company/caju-code/) since Jan/2025.
+- I've also colaborate as a Junior FrontEnd Dev there from November 2024 to January 2025.
 
-:mortar_board: I finished the [Santander + Ada Tech](https://app.santanderopenacademy.com/pt-BR/program/santander-tech) program in January 2025.
+:mortar_board: I finished my front-end internship at [Brainwave Matrix Solutions](https://www.linkedin.com/company/brainwave-matrix-solutions/posts/?feedView=all) in January 2025.
+
+:mortar_board: I finished the front-end [Santander + Ada Tech](https://app.santanderopenacademy.com/pt-BR/program/santander-tech) program in January 2025.
 
 ## Reach me out
 
