@@ -19,7 +19,8 @@ I have already a good understanding and use of the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/cb48cffb-4408-4b80-ad4b-88b7376c63cc" height="40" alt="sql-logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
 
 <br>
@@ -27,8 +28,7 @@ I have already a good understanding and use of the
 and nowadays I'm **learning**
   
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+
   <img src="https://github.com/user-attachments/assets/e26d1ac9-6a12-484b-91af-92a69248c963" height="40" alt="tableau logo"/>
 
 </div>
@@ -104,6 +104,8 @@ See more of my stats:
 
 
 <!--
+Feito utilizando o site: https://profile-readme-generator.com/ 
+
 **luhm/luhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
