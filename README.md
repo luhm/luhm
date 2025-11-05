@@ -15,7 +15,7 @@
 
 📊 [Salário em Dados](https://github.com/luhm/projeto_salarios_dados) - an understanding of salary in data field of work.
 
-📊 Leads de mentoria - a analysis for the mentoring project at Caju Code
+📊 Leads de mentoria - an E2E project with ETL and EDA for the mentoring project at Caju Code
 
 <br>
 <br>
@@ -69,7 +69,7 @@ and nowadays I'm **learning**
 
 <br>
 
-Also I have experience and knowledge in:
+I also have experience and knowledge in:
 
 <br>
 
@@ -115,16 +115,18 @@ See more of my stats:
 
 <br>
 
-## Studies and Workies
+## Studies and Experiences
+
+💻 I'm a mentee in Data Analysis at [Caju Code](https://www.linkedin.com/company/caju-code/) since Jan, 2025.
+- I'm working at the **Leads de mentoria** as a data analyst (ETL, EDA)
+- I've also colaborate as a Junior FrontEnd Dev there from November, 2024 to January, 2025.
+- I've participate in the front-end architecture analysis of the Viper project
 
 🎓 I'm currently enrolled in the [Data Science and Analytics](https://especializacao.ccec.puc-rio.br/especializacao/ciencia-de-dados-e-analytics) postgraduate course at PUC-rio. From August, 2025 - now.
 
 🎓 I've finished the [Data Girls Bootcamp (Re)Start](https://github.com/luhm/bootcamp-dg) in July, 2025.
 
 :mortar_board: I've finished the [Teo Calvo SQL course](https://github.com/TeoCalvo/teoSQL-V2/tree/main) in March, 2025.
-
-💻 I'm a mentee in Data Analysis at [Caju Code](https://www.linkedin.com/company/caju-code/) since Jan, 2025.
-- I've also colaborate as a Junior FrontEnd Dev there from November, 2024 to January, 2025.
 
 <!--
 :mortar_board: I finished my front-end internship at [Brainwave Matrix Solutions](https://www.linkedin.com/company/brainwave-matrix-solutions/posts/?feedView=all) in January 2025.
