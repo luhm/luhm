@@ -1,11 +1,9 @@
 <h1 align="center">Hi!</h1>
 
-<p align="center"> <img src="https://github.com/luhm/luhm/blob/main/6.png?raw=true" align="center"/> My name is Luiza H. Moretti. </p>
+<p align="center"> <img src="https://github.com/luhm/luhm/blob/main/6.png?raw=true" align="center"/></p>
+<p align="center">My name is Luiza H. Moretti and I'm a brazilian data analyst student and a cat lover 😻 </p>
 
-<p align="center">I am a brazilian data analyst student and a cat lover 😻 </p>
-
-
-## Tech-Stacks
+## Tech-Stacks <img src="https://github.com/luhm/luhm/blob/main/7.png?raw=true" align="right"/>
 
 I have already a good understanding and use of the 
 <div align="left">
@@ -129,11 +127,9 @@ See more of my stats:
   </a>
 </div>
 
----
-
 <br>
 
-![cat-bye](https://github.com/user-attachments/assets/b49c1a5d-9d0c-43d6-879d-ae438240a9ab)
+<p align="center"> <img src="https://github.com/luhm/luhm/blob/main/5.png?raw=true" align="center"/></p>
 
 
 ###
