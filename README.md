@@ -1,13 +1,13 @@
 <h1 align="center">Hi!</h1>
 
-<p align="center"> <img src="https://github.com/luhm/luhm/blob/main/6.png?raw=true" align="center"/></p>
+<p align="center"> <img src="https://github.com/luhm/luhm/main/9.png?raw=true" align="center"/></p>
 <p align="center">My name is Luiza H. Moretti and I'm a brazilian data analyst student and a cat lover 😻 </p>
 
 <br>
 
 ## My projects in data analysis 
 
-### <img src="https://github.com/luhm/luhm/blob/main/8.png?raw=true" align="left"/>
+### <img src="https://github.com/luhm/luhm/blob/main/6.png?raw=true" align="left"/>
 
 📊 [Olhar de Bastet](https://github.com/luhm/escola_olhar_de_bastet) - an analysis on the models of salary payment of professionals in a non-existing school.
 
