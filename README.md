@@ -1,6 +1,6 @@
 <h1 align="center">Hi!</h1>
 
-<p align="center"> <img src="https://github.com/luhm/luhm/main/9.png?raw=true" align="center"/></p>
+<p align="center"> <img src="https://github.com/luhm/luhm/blob/main/10.png?raw=true" align="center"/></p>
 <p align="center">My name is Luiza H. Moretti and I'm a brazilian data analyst student and a cat lover 😻 </p>
 
 <br>
@@ -82,7 +82,11 @@ Also I have experience and knowledge in:
   <img width="10" />
 </div>
 
+<br>
+
 ## Work tools
+
+<br>
 
 <div>
   <img width="12" />
@@ -97,11 +101,17 @@ Also I have experience and knowledge in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
+<br>
+
 ---
+
+<br>
 
 See more of my stats: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhm&show_icons=true&hide=contribs&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhm&hide_title=true&layout=compact)
+
+<br>
 
 ## Studies and Workies
 
@@ -119,6 +129,8 @@ See more of my stats:
 
 :mortar_board: I finished the front-end [Santander + Ada Tech](https://app.santanderopenacademy.com/pt-BR/program/santander-tech) program in January 2025.
 -->
+
+<br>
 
 ## Reach me out
 
