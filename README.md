@@ -3,6 +3,21 @@
 <p align="center"> <img src="https://github.com/luhm/luhm/blob/main/6.png?raw=true" align="center"/></p>
 <p align="center">My name is Luiza H. Moretti and I'm a brazilian data analyst student and a cat lover 😻 </p>
 
+<br>
+
+## My projects in data analysis 
+
+### <img src="https://github.com/luhm/luhm/blob/main/8.png?raw=true" align="left"/>
+
+📊 [Olhar de Bastet](https://github.com/luhm/escola_olhar_de_bastet) - an analysis on the models of salary payment of professionals in a non-existing school.
+
+:bar_chart: [Gatolate](https://github.com/luhm/gatolate) - a non-existing chocolate store.
+
+📊 [Salário em Dados](https://github.com/luhm/projeto_salarios_dados) - an understanding of salary in data field of work.
+
+<br>
+<br>
+
 ## Tech-Stacks <img src="https://github.com/luhm/luhm/blob/main/7.png?raw=true" align="right"/>
 
 I have already a good understanding and use of the 
@@ -98,14 +113,6 @@ See more of my stats:
 
 💻 I'm a mentee in Data Analysis at [Caju Code](https://www.linkedin.com/company/caju-code/) since Jan, 2025.
 - I've also colaborate as a Junior FrontEnd Dev there from November, 2024 to January, 2025.
-
-### My projects in data analysis
-
-📊 [Olhar de Bastet](https://github.com/luhm/escola_olhar_de_bastet) - an analysis on the models of salary payment of professionals in a non-existing school.
-
-:bar_chart: [Gatolate](https://github.com/luhm/gatolate) - a non-existing chocolate store.
-
-📊 [Salário em Dados](https://github.com/luhm/projeto_salarios_dados) - an understanding of salary in data field of work.
 
 <!--
 :mortar_board: I finished my front-end internship at [Brainwave Matrix Solutions](https://www.linkedin.com/company/brainwave-matrix-solutions/posts/?feedView=all) in January 2025.
