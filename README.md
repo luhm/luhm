@@ -154,6 +154,7 @@ See more of my stats:
 
 <p align="center"> <img src="https://github.com/luhm/luhm/blob/main/5.png?raw=true" align="center"/></p>
 
+<h1 align="center">See ya!</h1>
 
 ###
 
