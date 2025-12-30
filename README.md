@@ -9,9 +9,9 @@
 
 ### <img src="https://github.com/luhm/luhm/blob/main/6.png?raw=true" align="left"/>
 
-📊 [Olhar de Bastet](https://github.com/luhm/escola_olhar_de_bastet) - an analysis on the models of salary payment of professionals in a non-existing school.
+📊 [Olhar de Bastet](https://github.com/luhm/escola_olhar_de_bastet) - an analysis on the models of salary payment of professionals of a private school.
 
-:bar_chart: [Gatolate](https://github.com/luhm/gatolate) - a non-existing chocolate store.
+:bar_chart: [Gatolate](https://github.com/luhm/gatolate) - a sales performance for a chocolate store.
 
 📊 [Salário em Dados](https://github.com/luhm/projeto_salarios_dados) - an understanding of salary in data field of work.
 
